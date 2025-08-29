@@ -1,5 +1,5 @@
 # ppt
-*/
+
 # Auto PPT Generator - Example Implementation
 
 
@@ -52,4 +52,3 @@ Open http://localhost:5173 (or what Vite prints)
 
 
 
-/* End of project files */
